@@ -37,18 +37,19 @@ Home Grid View:
 
 
 Image Detail View:  
+<img width="201" height="437" alt="ImageDetailView" src="https://github.com/user-attachments/assets/c1f9fb3e-8f09-4396-b42c-26507dd0adfe" />
 
 
 Favourites Section:  
+<img width="201" height="437" alt="FavouriteGridView" src="https://github.com/user-attachments/assets/05ae74d0-1094-44e0-a6a4-53c5a0e13ac7" />
 
 
 Search Functionality:  
-
-
-Smooth Scrolling:  
+<img width="201" height="437" alt="SearchBar" src="https://github.com/user-attachments/assets/6dc70074-0740-406b-9937-1a1780bec609" />  <img width="201" height="437" alt="SearchBar1" src="https://github.com/user-attachments/assets/067240fd-c8f4-4620-b29f-76f2486f908a" />
 
 
 Share Functionality:  
+<img width="201" height="437" alt="ShareFuncionality" src="https://github.com/user-attachments/assets/00a00956-28e3-4dcb-a7ec-612d98986ce4" />
 
 
 ---
