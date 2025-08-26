@@ -33,7 +33,7 @@ This project was developed as part of the iOS Developer Intern assignment to dem
 ## Screenshots
 
 Home Grid View:  
-<img width="1206" height="2622" alt="HomeGridview" src="https://github.com/user-attachments/assets/9604e020-f88a-4f02-9249-ad5f8263cf62" />
+<img width="120.6" height="262.2" alt="HomeGridview" src="https://github.com/user-attachments/assets/9604e020-f88a-4f02-9249-ad5f8263cf62" />
 
 
 Image Detail View:  
